@@ -6,10 +6,10 @@ A very easy to use component which can be used in any of your iOS applications t
 
 **It has more features including:**
 
-    1. Loads photos from URL/Device.
-    2. Supports image caching.
-    3. Have sharing options on social networks (Twitter, Facebook, Email) [via ShareKit].
-    4. User may save images into his own device gallery.
+1. Loads photos from URL/Device.
+2. Supports image caching.
+3. Have sharing options on social networks (Twitter, Facebook, Email) [via ShareKit].
+4. User may save images into his own device gallery.
 
 
 ## How to use the gallery in your iOS applications 
