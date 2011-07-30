@@ -1,8 +1,6 @@
-SEGalleryViewController - an iOS Photo.app like photo gallery 
-=============================================================
+# SEGalleryViewController - an iOS Photo.app like photo gallery
 
-What is SEGalleryViewController?
----------------------------------
+## What is SEGalleryViewController?
 
 A very easy to use component which can be used in any of your iOS applications to create a photo gallery that is similar to Photo.app native photos app on the iPhone.
 It has more features including:
