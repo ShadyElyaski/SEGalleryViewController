@@ -5,9 +5,13 @@
 A very easy to use component which can be used in any of your iOS applications to create a photo gallery that is similar to Photo.app native photos app on the iPhone.
 
 **It has more features including:**
+
     1. Loads photos from URL/Device.
+    
     2. Supports image caching.
+    
     3. Have sharing options on social networks (Twitter, Facebook, Email) [via ShareKit]
+    
     4. User may save images into his own device gallery.
 
 
