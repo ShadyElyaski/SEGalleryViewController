@@ -3,11 +3,12 @@
 ## What is SEGalleryViewController?
 
 A very easy to use component which can be used in any of your iOS applications to create a photo gallery that is similar to Photo.app native photos app on the iPhone.
-It has more features including:
-    1- Loads photos from URL/Device.
-    2- Supports image caching.
-    3- Have sharing options on social networks (Twitter, Facebook, Email) [via ShareKit]
-    4- User may save images into his own device gallery.
+
+**It has more features including:**
+    1. Loads photos from URL/Device.
+    2. Supports image caching.
+    3. Have sharing options on social networks (Twitter, Facebook, Email) [via ShareKit]
+    4. User may save images into his own device gallery.
 
 
 ## How to use the gallery in your iOS applications 
@@ -23,7 +24,7 @@ It has more features including:
 ## References 
 
 1. andreyvit <andreyvit@gmail.com>
-	* His SoloComponents-iOS project <https://github.com/andreyvit/SoloComponents-iOS> helped me a lot in various tweak ups.
+	* His [SoloComponents-iOS project](https://github.com/andreyvit/SoloComponents-iOS) helped me a lot in various tweak.
 2. Designing Apps with Scroll Views Session by Apple's WWDC 2010.
 3. ShareKit <http://getsharekit.com>
 
@@ -39,6 +40,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contact
 
-Twitter: http://twitter.com/ShadyElyaski
-Email: shady@elyaski.com
-website: http://elyaski.com
+* Twitter: http://twitter.com/ShadyElyaski
+* Email: shady@elyaski.com
+* Website: http://elyaski.com
